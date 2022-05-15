@@ -1,0 +1,83 @@
+body {
+    padding: 80px;
+    font-family: "Lato", sans-serif;
+  }
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  hr {
+    margin: 40px;
+  }
+  
+  h2 {
+    font-size: 56px;
+    font-weight: 200;
+  }
+  
+  p {
+    font-weight: 200;
+  }
+  
+  h3 {
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .date {
+    text-align: center;
+  }
+  
+  .small {
+    font-size: 10px;
+    text-align: center;
+    padding-top: 8px;
+  }
+  
+  .card-body {
+    padding: 40px 0 0 0;
+  }
+  
+  .card-footer {
+    padding: 24px;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  .label {
+    font-size: 14px;
+    padding-right: 4px;
+  }
+  
+  #search {
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+  }
+  
+  #search::placeholder {
+    color: #737373;
+    font-size: 12px;
+    font-weight: 200;
+    padding: 8px;
+  }
+  
+  .submit {
+    border: none;
+    background-color: #ccc;
+    border-radius: 2px;
+  }
+  
+  .current {
+    border: none;
+    background-color: #333333;
+    color: #fff;
+    border-radius: 2px;
+  }
+  
+  .unit {
+    display: inline;
+  }
+  
